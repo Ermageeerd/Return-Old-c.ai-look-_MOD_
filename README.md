@@ -12,6 +12,8 @@ Nevermind, it seems the OG is dead.
 
 > Fully reimpliment deleting chats.
 
+> Fix list of chats to be accurate to the old version.
+
 I am a novice and inevitably will need help, If you know how to fix something, please tell!
 
 # *OG text below.*
