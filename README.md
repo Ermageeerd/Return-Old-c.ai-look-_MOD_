@@ -46,7 +46,7 @@ Download the extention named "Stylus" from your browser's extension shop.
   If you experience issues, I kindly invite you to screenshot the issue, and make an issue here on github
   ## How to unninstall all this?
   ### Simple way:
-  Uninstall Styluys and Tampermonkey
+  Uninstall Stylus and Tampermonkey
 (Right click on the extension icon => "Uninstall extension")
   ### Still simple way:
   Click on Stylus, click Manage.
