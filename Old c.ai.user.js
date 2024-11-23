@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Old c.ai
+// @name         Old c.aiiiiii
 // @namespace    https://github.com/ismael1222/Return-old-c.ai-look
 // @version      0.3.4
 // @description  Reskin the new site into good ol' looks with this script
@@ -8,7 +8,7 @@
 // @match        https://character.ai/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 
-// @resource     htmll https://return-old-c-ai-look.vercel.app/mainpage.html
+// @resource htmll https://github.com/Ermageeerd/personal-edits-to-_return-c.ai-old-look_/raw/refs/heads/main/mainpage.html
 // @resource     profpagehtml https://return-old-c-ai-look.vercel.app/profilepage.html
 
 // @updateURL    https://return-old-c-ai-look.vercel.app/Old%20c.ai.user.js
