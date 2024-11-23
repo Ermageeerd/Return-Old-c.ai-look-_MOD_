@@ -9,7 +9,7 @@
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 
 // @resource htmll https://github.com/Ermageeerd/personal-edits-to-_return-c.ai-old-look_/raw/refs/heads/main/mainpage.html
-// @resource     profpagehtml https://return-old-c-ai-look.vercel.app/profilepage.html
+// @resource     profpagehtml https://raw.githubusercontent.com/Ermageeerd/personal-edits-to-_return-c.ai-old-look_/refs/heads/main/profilepage.html
 
 // @updateURL    https://github.com/Ermageeerd/personal-edits-to-_return-c.ai-old-look_/raw/refs/heads/main/Old%20c.ai.user.js
 // @downloadURL  https://github.com/Ermageeerd/personal-edits-to-_return-c.ai-old-look_/raw/refs/heads/main/Old%20c.ai.user.js
