@@ -101,7 +101,7 @@ console.log(urlParams.get("chats"))
             if(arrw = undefined){
                 nameObject.insertAdjacentHTML("beforeend", chatnumber)
                 charImageINCHAT.insertAdjacentHTML("beforebegin", "<a href='/' class='arrow'>⮜</a>")
-                let arrw = document.querySelector('a.arrow')
+                arrw = document.querySelector('a.arrow')
             }
 
         },5000)
