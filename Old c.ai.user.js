@@ -8,11 +8,11 @@
 // @match        https://character.ai/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 
-// @resource htmll https://github.com/Ermageeerd/personal-edits-to-_return-c.ai-old-look_/raw/refs/heads/main/mainpage.html
-// @resource     profpagehtml https://raw.githubusercontent.com/Ermageeerd/personal-edits-to-_return-c.ai-old-look_/refs/heads/main/profilepage.html
+// @resource htmll https://github.com/Ermageeerd/Return-Old-c.ai-look-_MOD_/raw/refs/heads/main/mainpage.html
+// @resource     profpagehtml https://raw.githubusercontent.com/Ermageeerd/Return-Old-c.ai-look-_MOD_/refs/heads/main/profilepage.html
 
-// @updateURL    https://github.com/Ermageeerd/personal-edits-to-_return-c.ai-old-look_/raw/refs/heads/main/Old%20c.ai.user.js
-// @downloadURL  https://github.com/Ermageeerd/personal-edits-to-_return-c.ai-old-look_/raw/refs/heads/main/Old%20c.ai.user.js
+// @updateURL    https://github.com/Ermageeerd/Return-Old-c.ai-look-_MOD_/raw/refs/heads/main/Old%20c.ai.user.js
+// @downloadURL  https://github.com/Ermageeerd/Return-Old-c.ai-look-_MOD_/raw/refs/heads/main/Old%20c.ai.user.js
 // ==/UserScript==
 /*
 var urlParams = new URLSearchParams(window.location.search)
