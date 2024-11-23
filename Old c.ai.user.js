@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Old c.ai-MOD
 // @namespace    https://github.com/ismael1222/Return-old-c.ai-look
-// @version      0.3.4
+// @version      0.3.5
 // @description  Reskin the new site into good ol' looks with this script
 // @author       u/MaxGremory
 // @grant        GM_getResourceText
