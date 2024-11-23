@@ -9,8 +9,7 @@
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 
 // @resource htmll https://github.com/Ermageeerd/Return-Old-c.ai-look-_MOD_/raw/refs/heads/main/mainpage.html
-// @resource     profpagehtml https://raw.githubusercontent.com/Ermageeerd/Return-Old-c.ai-look-_MOD_/refs/heads/main/profilepage.html
-
+// profpagehtml https://raw.githubusercontent.com/Ermageeerd/Return-Old-c.ai-look-_MOD_/refs/heads/main/profilepage.html
 // @updateURL    https://github.com/Ermageeerd/Return-Old-c.ai-look-_MOD_/raw/refs/heads/main/Old%20c.ai.user.js
 // @downloadURL  https://github.com/Ermageeerd/Return-Old-c.ai-look-_MOD_/raw/refs/heads/main/Old%20c.ai.user.js
 // ==/UserScript==
