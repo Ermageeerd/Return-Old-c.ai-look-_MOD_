@@ -20,8 +20,8 @@ I am a novice and inevitably will need help, If you know how to fix something, p
 
 # Return old c.ai look!
 Get the ol' good looks with this script!
-It's toally safe and you can look at everything inside!
-Works totally 100% on the client side
+
+It's fully open source, so you can see anything it does!
 # What does this do?
 This script will change the character.ai looks so it can be used as the old one!!
 # How-to install and use:
