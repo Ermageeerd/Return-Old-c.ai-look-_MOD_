@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Old c.aiiiiii
+// @name         Old c.ai-MOD
 // @namespace    https://github.com/ismael1222/Return-old-c.ai-look
 // @version      0.3.4
 // @description  Reskin the new site into good ol' looks with this script
@@ -11,8 +11,8 @@
 // @resource htmll https://github.com/Ermageeerd/personal-edits-to-_return-c.ai-old-look_/raw/refs/heads/main/mainpage.html
 // @resource     profpagehtml https://return-old-c-ai-look.vercel.app/profilepage.html
 
-// @updateURL    https://return-old-c-ai-look.vercel.app/Old%20c.ai.user.js
-// @downloadURL  https://return-old-c-ai-look.vercel.app/Old%20c.ai.user.js
+// @updateURL    https://github.com/Ermageeerd/personal-edits-to-_return-c.ai-old-look_/raw/refs/heads/main/Old%20c.ai.user.js
+// @downloadURL  https://github.com/Ermageeerd/personal-edits-to-_return-c.ai-old-look_/raw/refs/heads/main/Old%20c.ai.user.js
 // ==/UserScript==
 /*
 var urlParams = new URLSearchParams(window.location.search)
