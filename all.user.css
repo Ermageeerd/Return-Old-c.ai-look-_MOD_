@@ -10,6 +10,10 @@
 @updateURL      https://github.com/Ermageeerd/Return-Old-c.ai-look-_MOD_/raw/refs/heads/main/all.user.css
 ==/UserStyle== */
 
+div.ml-1.text-medium.rounded-spacing-xs.p-1.bg-surface-elevation-2.font-medium.items-center.flex > .font-bold.text-plus{
+color:#e9b42e
+}
+
 @-moz-document regexp("https\\:\\/\\/character\\.ai\\/") {
 /*GENERAL*/
 main {
