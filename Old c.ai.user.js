@@ -17,6 +17,12 @@
 var urlParams = new URLSearchParams(window.location.search)
 console.log(urlParams.get("chats"))
 */
+const favicon = document.createElement('link');
+favicon.rel = 'icon';
+favicon.href = 'https://characterai.io/static/favicon-32x32_v2.png';
+favicon.sizes = '32x32';
+document.head.appendChild(favicon);
+
 (function() {
     'use strict';
     var lastPage = ""
@@ -102,11 +108,17 @@ console.log(urlParams.get("chats"))
                 nameObject.insertAdjacentHTML("beforeend", chatnumber)
                 charImageINCHAT.insertAdjacentHTML("beforebegin", "<a href='/' class='arrow'>⮜</a>")
                 arrw = document.querySelector('a.arrow')
+const element = document.querySelector('.select-none.text-\[0\.70rem\].text-foreground'); // Replace 'selector' with your actual selector
+element.innerText = 'New Text';
+/*const element +
+document.body.innerHTML = document.body.innerHTML.replace('This content has been filtered. Please make sure your chats comply with our Terms and Community Guidelines.', 'We couldn’t generate a reply.');
+document.body.innerHTML = document.body.innerHTML.replace('Send a new message to continue the conversation', 'Sometimes the AI generates a reply that doesn’t meet our guidelines. Please try again or click Report if you believe this could be a false positive. We\'ll anonymously keep track of reports to improve the AI.');*/
+
             }
 
         },5000)
 
-        }
+}
     function loadProfilePage(){
         let x = GM_getResourceText("profpagehtml");
         document.querySelector('main main').insertAdjacentHTML('afterbegin', x);
@@ -218,3 +230,5 @@ console.log(urlParams.get("chats"))
     }, 1000)
 
 })();
+
+/*Remember: Everything Characters say is made up!*/
