@@ -16,40 +16,78 @@ I am a novice and inevitably will need help, If you know how to fix something, p
 
 # *OG text below.*
 
+~~Working fine~~ as of DD/MM/YYYY 6/1/2025 23:36 GMT-3
+## Having issues with: Character info page, Character Edit page (neither have been implemented)
+
 # Return old c.ai look!
 Get the ol' good looks with this script!
 
-It's fully open source, so you can see anything it does!
+It's toally safe and you can look at everything inside!
+
+Works totally 100% on the client side
+
 # What does this do?
 This script will change the character.ai looks so it can be used as the old one!!
+
+
+
 # How-to install and use:
 ## Firefox, Chrome, and other browsers:
 1. Download the extention named "Tampermonkey" from your browser's extension shop.
-[Firefox download](https://addons.mozilla.org/es/firefox/addon/tampermonkey/), 
-[Chrome download](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
+[Tampermonkey for Firefox](https://addons.mozilla.org/es/firefox/addon/tampermonkey/), 
+[Tampermonkey for Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
 2. On this github page, click [here](https://github.com/Ermageeerd/Return-Old-c.ai-look-_MOD_/raw/refs/heads/main/Old%20c.ai.user.js) for the latest release, click "Install" on the page that will open.
    
-  ## Is it done? **No! You still need to get rid of the ogly page (the new one)**
-Download the extention named "Stylus" from your browser's extension shop.
-  [Firefox download](https://addons.mozilla.org/es/firefox/addon/styl-us/), 
-  [Chrome download](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+  ## Is it done? **No! You still need to hide the new(old) page**
+1. Download the extention named "Stylus" from your browser's extension shop.
+
+  [Stylus for Firefox](https://addons.mozilla.org/es/firefox/addon/styl-us/), 
+  [Stylus for Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
   
-  Once installed click this link: [Install Style](https://github.com/Ermageeerd/Return-Old-c.ai-look-_MOD_/raw/refs/heads/main/all.user.css)
-  Click the blue install button and install the Style
+  2. Once installed click this link: [Install Style](https://github.com/Ermageeerd/Return-Old-c.ai-look-_MOD_/raw/refs/heads/main/all.user.css)
+
+  3. Click the blue install button and install the Style
   
-  Close that tab and go back to character.ai
+  4. Close that tab and go back to character.ai
   
   Reload and enjoy!
-  # Issues? Unusable webpage? How to uninstall?
+
+
+  # Issues?
+
   If you experience issues, I kindly invite you to screenshot the issue, and make an issue here on github
-  ## How to unninstall all this?
-  ### Simple way:
-  Uninstall Stylus and Tampermonkey
-(Right click on the extension icon => "Uninstall extension")
-  ### Still simple way:
-  Click on Stylus, click Manage.
-  Click the X button on the style to delete it.
-  Same on Tampermonkey
-  Click Tampermonkey
-  Click Dashboard
-  Click the trash button on the script label
+
+  ## How to uninstall all this?
+
+  Simple, you have two options:
+  
+  ### Uninstall both Stylus and Tampermonkey.
+  
+  Right click on Stylus
+  
+  Click on Uninstall Extension
+  
+  Right Click on Tampermonkey
+  
+  Click on Uninstall Extension
+
+  ### Uninstall this script, but keep the extension:
+
+  #### Stylus:
+  
+  1. Click on Stylus
+     
+  2. Click Manage
+     
+  3. Click the X button on the style to delete it
+
+  #### Tampermonkey:
+
+  1. Click Tampermonkey
+
+  2. Click Dashboard
+
+  3. Click the trash button on the script label
+
