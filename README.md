@@ -14,10 +14,10 @@ Nevermind, it seems the OG is dead.
 
 I am a novice and inevitably will need help, If you know how to fix something, please tell!
 
-# *OG text below.*
 
 ~~Working fine~~ as of DD/MM/YYYY 6/1/2025 23:36 GMT-3
 ## Having issues with: Character info page, Character Edit page (partially implemented), and the loading wheel. (broken)
+# *OG text below.*
 
 # Return old c.ai look!
 Get the ol' good looks with this script!
