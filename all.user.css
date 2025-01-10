@@ -223,19 +223,23 @@ div.footer a {
 }
 
 @-moz-document regexp("https\\:\\/\\/character\\.ai\\/chat\\/.+") {
-main main {
+    main main {
     width: 100vw!important;
     margin-left: 0!important;
     max-width: 100vw!important;
     background-color: #252524;
 }
-div.p-2.w-full.m-auto.max-w-3xl.relative.group > .md\:ml-6.ml-0.justify-start.gap-2.items-start.flex-row.flex.m-0 > .w-full.sm\:-ml-2.items-start.gap-1.flex-col.flex > .pb-4.justify-center.flex.min-h-12.px-3.rounded-2xl.max-w-xl.mt-1 {
-background-color: #252525!important;
-padding-top: 0;
-            padding-bottom: 1rem;
+div.p-2.w-full.m-auto.max-w-3xl.relative.group > .md\:ml-6.ml-0.justify-start.gap-2.items-start.flex-row.flex.m-0 > .w-full.sm\:-ml-2.items-start.gap-1.flex-col.flex > .pb-4.justify-center.flex.min-h-12.px-3.rounded-2xl.max-w-xl.mt-1, .swiper-slide-active.swiper-slide-fully-visible.swiper-slide-visible.swiper-slide > div > div > .md\:ml-6.ml-0.justify-start.gap-2.items-start.flex-row.flex.m-0 > .w-full.sm\:-ml-2.items-start.gap-1.flex-col.flex > .pb-4.justify-center.flex.min-h-12.px-3.rounded-2xl.max-w-xl.mt-1 {
+    background-color: transparent!important;
+    padding-top: 0;
+    padding-bottom: 1rem;
 }
-div.p-2.w-full.m-auto.max-w-3xl.relative.group > .md\:ml-6.ml-0.justify-start.gap-2.items-start.flex-row.flex.m-0 > .w-full.sm\:-ml-2.items-start.gap-1.flex-col.flex > .pb-4.justify-center.flex.min-h-12.px-3.rounded-2xl.max-w-xl.mt-1 > .swiper-no-swiping.font-light.font-display > .max-w-3xl.dark\:prose-invert.prose > p{
-margin-top: -15px;
+div.p-2.w-full.m-auto.max-w-3xl.relative.group > .md\:ml-6.ml-0.justify-start.gap-2.items-start.flex-row.flex.m-0 > .w-full.sm\:-ml-2.items-start.gap-1.flex-col.flex > .pb-4.justify-center.flex.min-h-12.px-3.rounded-2xl.max-w-xl.mt-1 > .swiper-no-swiping.font-light.font-display > .max-w-3xl.dark\:prose-invert.prose > p, .swiper-slide-active.swiper-slide-fully-visible.swiper-slide-visible.swiper-slide > div > div > .md\:ml-6.ml-0.justify-start.gap-2.items-start.flex-row.flex.m-0 > .w-full.sm\:-ml-2.items-start.gap-1.flex-col.flex > .pb-4.justify-center.flex.min-h-12.px-3.rounded-2xl.max-w-xl.mt-1 > .swiper-no-swiping.font-light.font-display > .max-w-3xl.dark\:prose-invert.prose {
+    margin-top: -15px;
+}
+div.p-2.w-full.m-auto.max-w-3xl.relative.group:nth-of-type(4) {
+    padding-top: 0;
+    padding-bottom: 1rem;
 }
 
 main div.w-64 {
@@ -253,17 +257,16 @@ div.flex.w-full.flex-col.max-w-2xl * {
 	p em {
 		color: grey;
 	}*/
-.bg-surface-elevation-2,
-.bg-surface-elevation-3 {
-    background-color: #252525
-}
-.pt-12.pb-6.px-16.gap-1.text-center.justify-center.items-center.flex-col.flex {
-    display: none
-}
-.\32 xl\:hidden.dark\:border-gray-800.border-gray-200.border-solid.border-b-\[0\.5px\].backdrop-blur-\[20px\].z-\[1\].h-20.w-screen.top-0.left-0.fixed {
-    background-color: #252525 !important;
-
-}
+    .bg-surface-elevation-2,
+    .bg-surface-elevation-3 {
+        background-color: #252525
+    }
+    .pt-12.pb-6.px-16.gap-1.text-center.justify-center.items-center.flex-col.flex {
+        display: none
+    }
+    .\32 xl\:hidden.dark\:border-gray-800.border-gray-200.border-solid.border-b-\[0\.5px\].backdrop-blur-\[20px\].z-\[1\].h-20.w-screen.top-0.left-0.fixed {
+        background-color: #252525 !important;
+    }
 }
 
 @-moz-document regexp("https\\:\\/\\/character\\.ai\\/chat\\/.+") {
