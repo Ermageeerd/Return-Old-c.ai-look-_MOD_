@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Old c.ai-MOD
 // @namespace    https://github.com/ismael1222/Return-old-c.ai-look
-// @version      0.3.6
+// @version      0.3.5
 // @description  Reskin the new site into good ol' looks with this script
 // @author       u/MaxGremory
 // @grant        GM_getResourceText
@@ -19,7 +19,7 @@ console.log(urlParams.get("chats"))
 */
 const favicon = document.createElement('link');
 favicon.rel = 'icon';
-favicon.href = 'https://characterai.io/static/favicon-32x32_v2.png';
+favicon.href = 'https://cdn.discordapp.com/emojis/1327823909369679962.webp?size=96';
 favicon.sizes = '32x32';
 document.head.appendChild(favicon);
 
@@ -110,6 +110,23 @@ document.head.appendChild(favicon);
                 arrw = document.querySelector('a.arrow')
 const element = document.querySelector('.select-none.text-\[0\.70rem\].text-foreground'); // Replace 'selector' with your actual selector
 element.innerText = 'New Text';
+(function() {
+    'use strict';
+
+    // Function to change the CSS variable value
+    function changeBlueColor() {
+        const root = document.documentElement;
+
+        // Set the new color value for --blue
+        root.style.setProperty('--blue', '#252525');
+    }
+
+    // Wait for the page to load completely and then change the color
+    window.addEventListener('load', () => {
+        changeBlueColor();
+    });
+
+})();
 /*const element +
 document.body.innerHTML = document.body.innerHTML.replace('This content has been filtered. Please make sure your chats comply with our Terms and Community Guidelines.', 'We couldn’t generate a reply.');
 document.body.innerHTML = document.body.innerHTML.replace('Send a new message to continue the conversation', 'Sometimes the AI generates a reply that doesn’t meet our guidelines. Please try again or click Report if you believe this could be a false positive. We\'ll anonymously keep track of reports to improve the AI.');*/
